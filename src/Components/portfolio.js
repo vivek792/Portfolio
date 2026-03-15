@@ -339,7 +339,7 @@ const Portfolio = () => {
         </p>
 
         <p>
-          Published in ICACITE Conference.
+          Published in ICACITE Conference. <a href="https://ieeexplore.ieee.org/document/9823726"  style={{textdecoration:'None'}}>Show Publication</a>
         </p>
 
       </section>
