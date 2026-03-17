@@ -60,8 +60,24 @@ const Portfolio = () => {
       desc: "Architectured and developed Full-stack application  Designed and implemented a custom interface to replace the Cisco SWIM interface, enabling efficient and automated upgrades across multiple vendor routers, including Cisco, Nokia, Huawei, Juniper, and Ciena",
        tech: ["TensorFlow", "Keras", "LLM", "Python", "Reactjs", "Django", "VectorDB", "OracleDB"],
       associated: "Airtel"
+    },
+     {
+      title: "Application Development",
+      desc: "Developed and Handling a  Full-stack application for adding new services and platform for the users to enable the accessibility of the courses.",
+       tech: ["React.js", "Node.js", "MongoDB", "Express.js", "GCP","REST API"],
+      associated: "Verzeo"
+    },
+         {
+      title: "Quantix",
+      desc: "Developed and Handling a  Full-stack application for adding new services and platform for the users to enable the hospitality to the users for higher accessibility.",
+       tech: ["React.js", "Customer Service Management", "Problem-Solving & Adaptability", "Data Science","Node.js","RESTAPI","Express.js"],
+      associated: "dormhostels.com"
+    },
+        title: "Project Catalyst",
+      desc: "Designed and developed the UI & UX using figma tool and then designed that wireframe Front-End desgining and development.",
+       tech: ["User Interface(UI)", "User Experience(UX)", "Front-End Development", "JavaScript", "HTML", "CSS"],
+      associated: "Filmyloop"
     }
-     
   ];
 
   return (
@@ -310,7 +326,10 @@ const Portfolio = () => {
   </div>
 
   <div className="achievement-item">
-    Designed and developed custom enterprise LLM model (AirLM).
+    Designed and developed custom enterprise LLM model (AirLM) for Conversational AI & Image Generation.
+  </div>
+        <div className="achievement-item">
+    Problem Solving Silver Star badge in Algorithms development, Java, and Python.
   </div>
 
 </section>
