@@ -73,6 +73,7 @@ const Portfolio = () => {
        tech: ["React.js", "Customer Service Management", "Problem-Solving & Adaptability", "Data Science","Node.js","RESTAPI","Express.js"],
       associated: "dormhostels.com"
     },
+    {
         title: "Project Catalyst",
       desc: "Designed and developed the UI & UX using figma tool and then designed that wireframe Front-End desgining and development.",
        tech: ["User Interface(UI)", "User Experience(UX)", "Front-End Development", "JavaScript", "HTML", "CSS"],
