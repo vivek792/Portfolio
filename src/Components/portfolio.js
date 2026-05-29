@@ -26,7 +26,7 @@ const Portfolio = () => {
       associated: "Airtel"
     },
     {
-      title: "BRAS TT Dashboard",
+      title: "Nexus",
       desc: "Architectured and developed Full-stack dashboard with LSTM models for real-time prediction of SLA breaches and ticket aging.",
       tech: ["ReactJS", "FastAPI", "LSTM", "Predictive AI", "Deep Learning", "Machine Learning", "oracleDB", "VectorDB"],
       associated: "Airtel"
