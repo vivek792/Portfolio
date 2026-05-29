@@ -15,7 +15,7 @@ const Portfolio = () => {
     },
     {
       title: "AirLM",
-      desc: "Architectured and developed Custom LLM built from scratch on Transformer architecture with reasoning modules and RLHF-inspired learning.",
+      desc: "Architectured and developed Custom LLM built from scratch on Transformer architecture with reasoning model and RLHF-inspired learning.",
       tech: ["TensorFlow", "Keras", "Transformers Architecture", "Python", "AI Algorithm's", "VectorDB", "OracleDB"],
       associated: "Airtel"
     },
