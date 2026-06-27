@@ -164,7 +164,7 @@ const Portfolio = () => {
 
      <div className="highlight-card">
     <h4>Years of Experience</h4>
-    <p>4 Years 2 Months building AI systems and enterprise automation platforms.</p>
+    <p>4 Years 4 Months building AI systems and enterprise automation platforms.</p>
   </div>
             
       <div className="highlight-card">
