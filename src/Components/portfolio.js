@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import { Linkedin, Mail, Cpu, Code, Database, Layers } from "lucide-react";
 import ProfilePhoto from "./Photo.jpg";
-import Resume from "./Resume.pdf";
+import Resume from "./Resume (4).pdf";
 
 const Portfolio = () => {
 
