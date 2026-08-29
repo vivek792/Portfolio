@@ -93,7 +93,7 @@ const Portfolio = () => {
           <h1 className="hero-title">Vivek Singh</h1>
 
           <h2 className="hero-subtitle">
-            Senior GENAI/Agentic AI & LLM Engineer
+            Senior AI ML OPS Engineer/ AI Solution Architect
           </h2>
 
           <p className="hero-description">
